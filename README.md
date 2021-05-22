@@ -2,7 +2,7 @@
 Web application for RTO Management with SQL backend
 
 # Basic Features
-Home\n
+Home
 Register Vehicle
 Check RC Status
 Duplicate RC
