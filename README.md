@@ -1,7 +1,7 @@
 # RTO-Mini-Project
 Web application for RTO Management with SQL backend
 
-#Basic Features
+# Basic Features
 Home
 Register Vehicle
 Check RC Status
@@ -10,7 +10,7 @@ View RTO Branches
 Apply For New LL
 Apply For New DL
 
-#Admin Features
+# Admin Features
 View DL Data
 View LL Data
 View Vehicle Data
